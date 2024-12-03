@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name_error">Please enter name for search!</string>
+    <string name="no_results">There are no results found with name = "%1$s"</string>
+    <string name="error_response">Oops, something went wrong, please try again later. Error: %1$s</string>
+</resources>
